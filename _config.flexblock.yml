@@ -21,7 +21,7 @@ toc:
   min_depth: 2 # 生成 TOC 的最小深度
 
 comments:
-  enable: true
+  enable: false
   use: 'valine' # valine || disqus
   # valine 评论
   # docs: https://valine.js.org
